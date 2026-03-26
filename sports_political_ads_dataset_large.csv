@@ -1,0 +1,251 @@
+Sport,Platform,Game_Moment,State,Audience_Age_Group,Mobile_Usage_%,Ad_Impressions_M,CTR_%,Engagement_Rate_%,Ad_Spend_M,Ad_Recall_%
+NHL,YouTube,Post-Game,TX,35-54,80,252,2.23,5.7,14.18,11
+NHL,Sports App,4th Quarter,NY,25-44,83,563,1.69,6.27,8.67,18
+NBA,Connected TV,3rd Quarter,FL,18-34,76,208,2.12,5.33,24.48,9
+NHL,Betting App,Pre-Game,TX,35-54,78,284,1.59,5.46,23.98,18
+Soccer,Streaming,1st Quarter,PA,25-44,80,535,2.77,8.08,7.44,19
+MLB,Connected TV,Pre-Game,FL,25-44,67,537,1.92,8.64,15.93,12
+College Football,Streaming,1st Quarter,FL,25-44,69,595,3.33,10.09,11.53,13
+NHL,Social Media,4th Quarter,GA,35-54,75,386,1.82,10.8,12.14,18
+NHL,Betting App,3rd Quarter,PA,35-54,74,450,1.37,11.91,20.44,18
+MLB,Sports App,Pre-Game,GA,18-49,62,438,2.59,11.48,18.02,18
+NFL,Betting App,1st Quarter,PA,35-54,62,321,2.67,11.21,14.44,11
+Soccer,Sports App,Pre-Game,NY,25-44,82,404,1.79,5.28,19.21,16
+NBA,Betting App,3rd Quarter,TX,18-34,79,245,2.8,5.98,17.09,17
+College Football,Betting App,3rd Quarter,GA,18-49,78,235,3.23,9.37,10.91,11
+Soccer,Betting App,Halftime,FL,25-45,79,435,3.23,7.27,7.44,15
+Soccer,Social Media,Pre-Game,PA,18-49,89,270,3.08,11.03,5.14,14
+MLB,Social Media,4th Quarter,NY,18-34,78,383,1.98,11.6,11.46,14
+NFL,Betting App,Pre-Game,OH,18-34,85,201,1.77,9.87,19.25,11
+NFL,Social Media,2nd Quarter,PA,25-44,61,369,1.32,6.95,23.17,9
+Soccer,Streaming,3rd Quarter,FL,25-44,65,565,2.56,5.57,12.39,7
+Soccer,YouTube,Halftime,CA,18-49,75,293,3.12,7.25,8.73,19
+MLB,Betting App,Halftime,TX,25-45,78,495,2.38,6.59,17.9,10
+NFL,Social Media,Post-Game,CA,18-34,70,590,1.46,11.47,22.55,9
+NHL,Streaming,Pre-Game,FL,25-45,76,151,3.49,11.76,16.17,17
+NFL,Social Media,2nd Quarter,TX,18-49,79,301,2.13,11.21,22.02,7
+NHL,Connected TV,Halftime,OH,18-49,75,248,3.44,6.99,11.11,8
+Soccer,Sports App,3rd Quarter,PA,25-45,60,217,1.75,7.28,19.93,14
+MLB,Social Media,Pre-Game,GA,25-45,86,520,2.66,6.75,16.8,12
+College Football,Sports App,4th Quarter,GA,18-49,86,375,2.01,9.52,18.38,7
+College Football,Betting App,3rd Quarter,GA,18-49,63,184,2.97,5.31,24.89,19
+Soccer,YouTube,4th Quarter,TX,25-45,68,186,3.34,8.0,24.33,9
+NHL,Social Media,Halftime,MI,35-54,80,565,3.16,7.22,8.39,15
+NBA,Connected TV,1st Quarter,TX,25-44,74,491,2.02,6.78,10.91,16
+NFL,Social Media,Pre-Game,TX,35-54,69,396,2.17,6.79,17.23,18
+NBA,Social Media,Halftime,NY,25-45,60,413,2.81,10.57,22.8,13
+NHL,Streaming,1st Quarter,GA,18-49,84,335,2.45,7.01,16.82,12
+NFL,Betting App,1st Quarter,OH,18-49,87,250,2.4,10.39,9.32,11
+NHL,Connected TV,3rd Quarter,GA,25-45,89,196,2.81,5.97,7.65,8
+NHL,Streaming,4th Quarter,TX,18-34,83,468,2.2,10.21,10.02,16
+College Football,Connected TV,Post-Game,MI,18-34,71,278,1.6,6.1,10.0,12
+NFL,YouTube,3rd Quarter,PA,35-54,66,341,2.48,9.28,13.39,18
+NBA,Sports App,3rd Quarter,OH,18-34,88,369,1.31,5.29,22.11,10
+College Football,Betting App,1st Quarter,CA,35-54,66,249,1.6,8.04,12.97,16
+Soccer,YouTube,Halftime,CA,25-45,69,399,3.35,8.51,15.79,19
+NHL,Streaming,Pre-Game,FL,18-49,79,301,2.76,9.01,7.57,19
+MLB,Sports App,3rd Quarter,FL,18-49,60,566,2.7,6.45,10.48,18
+Soccer,Streaming,3rd Quarter,TX,25-44,62,364,1.36,7.23,21.9,16
+Soccer,Streaming,2nd Quarter,PA,25-45,85,263,2.65,11.14,19.7,11
+College Football,Social Media,Halftime,CA,35-54,68,557,3.06,11.93,13.25,8
+NFL,Connected TV,3rd Quarter,FL,18-34,82,162,2.9,6.67,12.55,7
+Soccer,Betting App,Pre-Game,OH,35-54,86,168,2.1,5.08,23.11,18
+NFL,Betting App,4th Quarter,MI,25-45,78,516,1.39,5.64,17.05,10
+MLB,YouTube,Halftime,NY,18-34,66,258,3.34,11.82,24.92,16
+College Football,Sports App,Post-Game,NY,18-49,70,295,3.43,9.82,21.74,7
+College Football,Connected TV,Post-Game,OH,35-54,67,319,2.11,11.24,7.93,19
+College Football,Connected TV,2nd Quarter,GA,35-54,60,491,3.07,11.63,24.72,10
+NHL,Connected TV,Halftime,MI,18-49,88,513,2.48,7.97,23.13,13
+Soccer,Sports App,3rd Quarter,NY,25-44,87,275,1.33,5.83,7.35,15
+NFL,Sports App,3rd Quarter,FL,18-34,87,518,1.39,8.7,13.73,16
+NHL,YouTube,3rd Quarter,NY,35-54,75,523,3.33,11.43,10.06,9
+NHL,Social Media,1st Quarter,MI,18-34,76,163,1.88,11.97,18.94,9
+NFL,Sports App,Halftime,CA,25-45,83,305,1.97,6.19,17.94,14
+NBA,Betting App,1st Quarter,FL,25-45,64,190,1.8,8.17,5.65,15
+NFL,YouTube,Halftime,NY,25-45,75,562,1.51,5.53,23.81,9
+College Football,Social Media,1st Quarter,CA,25-44,86,514,1.58,7.88,20.55,8
+NFL,Sports App,3rd Quarter,CA,18-34,81,464,3.14,10.87,14.37,9
+NFL,YouTube,Post-Game,OH,25-45,76,346,3.5,11.98,16.11,11
+College Football,YouTube,1st Quarter,CA,18-49,76,234,2.24,5.9,24.08,19
+NHL,Connected TV,Pre-Game,PA,25-44,87,244,1.46,9.7,15.41,12
+MLB,Sports App,1st Quarter,FL,18-34,81,385,2.49,11.14,13.07,13
+College Football,YouTube,4th Quarter,CA,18-49,78,252,1.51,5.1,12.01,8
+NBA,Connected TV,Post-Game,TX,18-49,61,457,2.46,8.16,23.21,13
+NBA,Sports App,Pre-Game,NY,35-54,63,287,3.33,8.44,10.16,14
+College Football,Streaming,4th Quarter,NY,25-44,72,275,2.66,6.68,6.52,15
+MLB,Connected TV,Halftime,GA,25-45,83,430,3.26,8.32,18.35,8
+College Football,Streaming,2nd Quarter,TX,35-54,64,241,2.0,5.22,15.97,11
+NFL,Betting App,1st Quarter,OH,25-44,76,227,1.96,7.25,6.85,15
+Soccer,Connected TV,2nd Quarter,MI,35-54,76,175,3.2,5.59,16.95,10
+Soccer,Connected TV,1st Quarter,FL,25-44,72,303,1.28,6.77,19.27,13
+Soccer,Sports App,Post-Game,FL,35-54,77,443,2.43,6.7,10.38,11
+NHL,Streaming,Post-Game,PA,18-34,66,235,1.95,5.84,22.81,10
+NFL,Betting App,1st Quarter,TX,18-34,72,295,1.4,8.76,16.74,14
+NFL,Betting App,2nd Quarter,CA,18-34,64,155,3.27,9.25,9.89,17
+College Football,Connected TV,3rd Quarter,PA,18-34,80,299,1.72,7.56,14.76,17
+Soccer,Connected TV,4th Quarter,MI,18-34,82,536,2.41,7.87,24.65,12
+NBA,Betting App,Halftime,TX,25-45,74,283,3.44,8.44,19.46,15
+NBA,Sports App,1st Quarter,TX,35-54,71,282,1.63,7.27,13.51,7
+NHL,Social Media,Halftime,MI,18-34,85,291,1.86,9.07,8.09,10
+College Football,Sports App,2nd Quarter,PA,25-44,83,159,2.46,8.84,9.03,14
+NBA,Betting App,Pre-Game,MI,35-54,68,422,1.47,8.31,17.12,9
+Soccer,Social Media,3rd Quarter,OH,25-45,71,583,1.49,10.12,23.77,18
+MLB,Sports App,Pre-Game,GA,25-45,88,477,3.1,10.25,20.99,9
+College Football,YouTube,3rd Quarter,TX,18-49,73,559,3.29,7.21,16.77,8
+Soccer,Sports App,3rd Quarter,OH,18-34,82,212,2.36,6.63,22.99,13
+NBA,Connected TV,3rd Quarter,GA,18-49,66,584,2.19,7.33,19.61,16
+NHL,YouTube,Pre-Game,FL,18-49,63,306,1.55,7.18,9.97,13
+NFL,Connected TV,Halftime,OH,25-44,69,154,3.22,7.39,21.43,10
+College Football,Betting App,Post-Game,NY,35-54,88,196,2.14,10.4,5.24,9
+MLB,Betting App,Halftime,CA,18-49,86,218,3.1,11.71,11.85,12
+NBA,Connected TV,2nd Quarter,FL,25-44,72,253,2.36,9.28,5.36,18
+MLB,Betting App,Halftime,FL,25-45,64,525,1.25,9.56,20.42,16
+NFL,Connected TV,2nd Quarter,NY,18-34,81,416,2.24,5.79,24.7,10
+Soccer,Social Media,Pre-Game,MI,18-49,67,548,2.12,5.38,11.7,10
+NFL,YouTube,1st Quarter,PA,18-49,79,174,3.19,11.46,14.31,17
+NBA,Sports App,Pre-Game,GA,18-49,86,513,3.3,6.74,16.55,10
+Soccer,YouTube,Pre-Game,PA,35-54,70,299,1.71,6.49,15.3,7
+NHL,Social Media,Pre-Game,FL,25-45,88,509,2.36,9.17,6.34,13
+MLB,Sports App,2nd Quarter,OH,35-54,76,578,2.07,10.86,16.75,7
+Soccer,Sports App,Post-Game,CA,25-44,81,262,2.12,8.92,8.1,7
+College Football,Sports App,1st Quarter,CA,18-49,73,311,2.14,5.18,8.12,8
+College Football,Social Media,Pre-Game,MI,18-49,83,592,2.36,9.17,11.79,11
+MLB,Sports App,Pre-Game,FL,25-44,62,245,3.47,9.22,21.14,10
+NHL,YouTube,4th Quarter,NY,25-44,66,479,1.4,6.46,5.53,19
+MLB,Betting App,3rd Quarter,FL,25-44,61,534,3.08,7.39,10.19,8
+MLB,Betting App,Halftime,NY,35-54,65,405,2.47,8.05,10.89,10
+NBA,Connected TV,Halftime,GA,18-34,69,307,2.32,11.26,21.0,7
+NBA,Sports App,Pre-Game,OH,18-34,67,599,2.66,6.81,7.79,17
+Soccer,Betting App,1st Quarter,CA,35-54,72,247,1.83,5.13,23.29,11
+NBA,Betting App,Pre-Game,OH,25-44,76,314,2.7,10.81,9.13,16
+Soccer,YouTube,2nd Quarter,PA,18-49,67,247,2.58,9.66,8.51,19
+NFL,Streaming,3rd Quarter,FL,25-44,73,213,2.01,11.71,8.69,11
+NHL,Sports App,1st Quarter,NY,35-54,70,445,2.21,11.41,19.43,14
+MLB,Connected TV,1st Quarter,MI,35-54,83,438,1.82,8.78,8.24,10
+MLB,Social Media,4th Quarter,TX,35-54,70,350,2.97,5.75,6.5,7
+NFL,Social Media,3rd Quarter,TX,25-44,84,188,1.37,5.54,5.05,9
+Soccer,Connected TV,1st Quarter,FL,18-49,64,193,3.06,11.73,20.8,15
+NFL,Betting App,4th Quarter,GA,18-49,67,298,2.95,10.07,17.74,14
+NFL,Streaming,Pre-Game,FL,18-49,85,514,2.74,5.31,16.77,7
+NBA,YouTube,4th Quarter,CA,35-54,66,286,1.64,5.81,13.44,19
+NBA,Connected TV,Halftime,MI,18-49,77,592,3.11,5.26,16.93,9
+NHL,Betting App,3rd Quarter,CA,18-49,64,320,1.98,10.07,6.31,14
+NFL,Betting App,3rd Quarter,OH,18-34,72,359,2.4,7.99,22.53,8
+MLB,Streaming,1st Quarter,OH,18-49,82,418,2.42,11.57,20.98,13
+Soccer,Betting App,3rd Quarter,OH,18-34,88,467,2.3,9.39,22.47,15
+NBA,Connected TV,Pre-Game,MI,25-45,64,214,1.75,5.77,12.09,8
+NHL,Streaming,4th Quarter,NY,18-34,75,342,3.29,5.32,7.19,15
+NHL,Betting App,2nd Quarter,CA,35-54,88,576,2.55,11.88,22.68,14
+MLB,Connected TV,3rd Quarter,CA,18-34,66,201,1.35,7.81,21.76,12
+College Football,Sports App,3rd Quarter,OH,25-44,70,375,2.08,5.26,24.15,14
+Soccer,YouTube,3rd Quarter,OH,18-34,68,248,2.57,8.68,10.2,9
+NBA,Streaming,4th Quarter,PA,18-49,62,418,1.71,8.76,16.86,11
+NBA,Sports App,Pre-Game,GA,18-49,86,178,3.24,11.69,22.24,15
+NFL,YouTube,2nd Quarter,TX,25-44,83,273,2.06,6.82,19.47,16
+NBA,Connected TV,3rd Quarter,FL,35-54,87,230,1.34,11.18,15.32,9
+NBA,Sports App,1st Quarter,GA,18-49,72,386,2.89,8.65,22.36,18
+NFL,Sports App,2nd Quarter,GA,18-34,72,512,1.75,11.51,7.12,17
+Soccer,Betting App,Post-Game,NY,18-49,72,463,2.27,11.15,5.1,17
+College Football,Connected TV,Post-Game,MI,25-44,63,407,3.11,8.55,5.13,19
+Soccer,Sports App,Pre-Game,PA,18-34,67,372,2.07,5.06,21.37,12
+MLB,Connected TV,Post-Game,CA,18-34,61,468,2.1,6.26,20.07,12
+NHL,Betting App,Halftime,CA,25-45,86,341,2.83,5.47,16.64,7
+Soccer,Streaming,2nd Quarter,CA,25-44,73,341,2.75,8.12,17.95,10
+College Football,Betting App,Post-Game,NY,18-49,60,283,2.06,10.73,10.05,13
+NBA,Streaming,4th Quarter,CA,35-54,63,248,2.24,6.15,20.9,19
+MLB,Betting App,1st Quarter,MI,25-45,81,176,3.2,11.74,5.63,19
+College Football,YouTube,2nd Quarter,FL,18-49,84,536,1.92,7.25,19.49,8
+College Football,Sports App,Pre-Game,PA,25-45,77,420,2.28,8.8,8.18,15
+NFL,YouTube,3rd Quarter,GA,18-49,73,199,2.95,9.38,7.62,11
+NHL,Streaming,2nd Quarter,FL,18-34,89,355,2.58,9.25,9.95,15
+Soccer,Social Media,Halftime,MI,35-54,80,535,3.03,7.17,14.1,14
+College Football,Streaming,4th Quarter,GA,25-44,73,244,2.86,9.6,20.14,18
+Soccer,Social Media,2nd Quarter,OH,18-49,83,190,1.76,11.91,7.85,12
+Soccer,Betting App,Halftime,PA,25-44,67,565,3.36,5.51,15.68,15
+College Football,Connected TV,Pre-Game,NY,25-45,85,555,1.94,11.84,9.02,16
+NBA,Streaming,1st Quarter,MI,25-45,76,509,2.66,9.95,5.63,12
+NFL,Social Media,1st Quarter,FL,25-44,87,467,3.0,9.29,14.69,17
+NHL,Betting App,4th Quarter,CA,25-44,62,276,2.41,10.12,6.63,12
+NHL,Betting App,3rd Quarter,PA,35-54,78,271,1.96,8.29,19.89,19
+College Football,Sports App,Halftime,CA,25-44,78,299,1.96,8.8,14.87,18
+NBA,Sports App,2nd Quarter,NY,35-54,81,596,1.67,10.88,8.48,11
+NBA,YouTube,Halftime,NY,25-45,87,513,2.97,8.53,15.87,9
+NFL,Betting App,1st Quarter,NY,25-44,63,215,2.57,10.55,18.1,9
+MLB,Streaming,4th Quarter,NY,25-45,62,386,2.27,10.85,9.72,16
+NHL,Connected TV,Post-Game,CA,25-45,73,483,2.38,7.89,6.38,15
+Soccer,Connected TV,Halftime,NY,18-34,79,279,1.42,9.56,11.24,18
+NBA,Sports App,3rd Quarter,NY,18-34,67,589,2.11,6.66,9.69,16
+MLB,Connected TV,4th Quarter,GA,25-44,88,415,2.74,6.02,13.99,14
+MLB,Betting App,Pre-Game,PA,25-45,87,270,2.59,7.5,15.67,7
+NFL,Betting App,Halftime,MI,25-45,86,594,1.28,11.91,7.46,11
+NHL,Streaming,3rd Quarter,PA,18-49,65,394,1.4,5.72,16.69,18
+NBA,Betting App,3rd Quarter,CA,18-49,70,275,3.39,9.47,22.36,14
+MLB,Streaming,Post-Game,FL,25-45,82,533,1.51,6.0,23.8,18
+NBA,YouTube,Pre-Game,MI,35-54,65,154,3.42,6.79,18.23,13
+NBA,Sports App,1st Quarter,OH,25-44,77,294,3.11,11.05,20.37,17
+NFL,Connected TV,Halftime,PA,18-34,78,436,2.72,7.76,18.02,16
+Soccer,Betting App,1st Quarter,CA,18-34,60,318,3.48,10.27,6.81,15
+MLB,Betting App,1st Quarter,NY,25-45,65,168,3.06,10.34,20.96,9
+College Football,Sports App,Pre-Game,GA,18-34,80,292,2.65,9.27,16.27,9
+NHL,YouTube,Pre-Game,PA,18-34,76,440,1.72,5.51,17.07,16
+NBA,Connected TV,Pre-Game,TX,35-54,85,477,2.39,8.35,5.51,16
+NFL,Betting App,3rd Quarter,CA,35-54,74,449,2.3,7.76,15.99,8
+NHL,Sports App,2nd Quarter,NY,35-54,82,256,1.22,9.53,22.96,15
+NHL,Sports App,2nd Quarter,MI,25-45,80,290,2.01,5.71,14.72,11
+NHL,Connected TV,2nd Quarter,NY,25-45,62,285,1.92,9.27,19.32,7
+College Football,Betting App,1st Quarter,PA,18-49,66,500,3.18,10.6,8.69,14
+NFL,Streaming,3rd Quarter,CA,25-45,79,523,3.05,8.85,5.87,16
+MLB,YouTube,Post-Game,OH,35-54,81,369,1.72,6.48,17.22,16
+NFL,YouTube,1st Quarter,GA,18-34,85,496,3.0,6.92,21.45,18
+NBA,Social Media,1st Quarter,TX,25-45,69,588,2.55,6.18,19.74,8
+NFL,YouTube,Pre-Game,OH,35-54,74,568,2.6,8.83,9.64,19
+College Football,Social Media,4th Quarter,PA,25-44,62,412,2.8,7.83,13.56,13
+NFL,Social Media,2nd Quarter,MI,25-45,73,168,2.59,7.36,23.11,19
+Soccer,Betting App,3rd Quarter,PA,25-45,62,222,1.94,6.59,12.1,10
+College Football,Social Media,Halftime,CA,25-45,64,577,1.74,8.78,22.6,8
+MLB,Connected TV,Halftime,NY,25-44,62,491,2.74,11.96,18.24,7
+MLB,Streaming,Post-Game,OH,25-45,67,299,2.49,11.7,8.51,15
+NBA,Connected TV,4th Quarter,PA,25-45,76,549,2.73,10.57,23.54,19
+NHL,Sports App,4th Quarter,NY,25-45,67,397,2.44,10.89,15.42,12
+Soccer,Streaming,Post-Game,GA,18-34,80,421,2.37,6.12,6.26,10
+NFL,Streaming,3rd Quarter,CA,18-34,80,407,3.36,8.88,11.11,10
+Soccer,Streaming,Halftime,CA,18-49,81,576,2.52,8.97,12.82,18
+NFL,Streaming,4th Quarter,CA,35-54,62,307,3.22,11.08,21.12,13
+NHL,Connected TV,Pre-Game,MI,35-54,62,215,1.55,6.57,24.15,8
+NBA,Social Media,1st Quarter,PA,35-54,81,438,3.32,8.41,17.13,12
+Soccer,YouTube,Halftime,TX,18-49,68,539,1.54,7.57,6.36,8
+NHL,Social Media,Post-Game,FL,35-54,87,161,3.42,8.03,11.24,10
+NBA,YouTube,Halftime,MI,35-54,70,403,2.59,7.55,12.73,11
+MLB,Streaming,1st Quarter,PA,25-44,89,416,2.93,9.34,10.95,13
+MLB,Social Media,2nd Quarter,NY,18-34,87,339,1.81,6.24,18.83,7
+NHL,Betting App,Post-Game,GA,18-34,64,508,1.71,6.22,18.11,12
+NBA,YouTube,Halftime,MI,35-54,62,156,2.41,8.37,8.54,19
+Soccer,YouTube,4th Quarter,MI,25-44,89,368,2.16,10.53,16.64,13
+NBA,YouTube,Pre-Game,NY,35-54,85,391,2.65,6.39,6.29,10
+NFL,Sports App,Pre-Game,FL,18-49,80,457,1.81,6.04,7.54,8
+NHL,Betting App,1st Quarter,GA,18-49,68,370,2.11,8.22,20.7,19
+NFL,Social Media,Pre-Game,GA,18-34,68,278,3.06,5.53,10.59,8
+NBA,Betting App,3rd Quarter,FL,18-49,82,439,2.09,8.15,9.54,7
+NHL,YouTube,2nd Quarter,NY,25-45,60,236,2.76,5.29,6.7,17
+NFL,YouTube,2nd Quarter,GA,18-49,83,166,3.4,10.16,12.07,10
+MLB,Betting App,Post-Game,TX,18-49,87,200,1.6,5.69,18.21,14
+NBA,Connected TV,Post-Game,GA,25-45,76,372,3.0,6.59,24.52,8
+MLB,Social Media,Halftime,OH,25-45,73,254,2.68,8.71,5.84,8
+NBA,YouTube,Halftime,FL,18-49,67,407,2.58,9.08,19.96,18
+NBA,Sports App,1st Quarter,MI,18-34,67,551,1.72,7.61,13.64,18
+NBA,Social Media,1st Quarter,OH,25-45,89,362,2.75,8.47,5.25,11
+MLB,Streaming,4th Quarter,MI,18-34,71,382,2.45,9.45,9.42,14
+Soccer,Connected TV,Post-Game,MI,25-45,70,405,2.45,11.89,23.75,19
+College Football,Streaming,1st Quarter,NY,35-54,74,585,3.08,6.49,15.12,14
+NHL,YouTube,4th Quarter,TX,35-54,88,502,2.37,7.08,16.3,19
+Soccer,Betting App,Post-Game,PA,35-54,74,285,2.26,5.07,9.93,11
+MLB,Social Media,Halftime,GA,18-49,69,503,1.67,8.89,19.66,13
+MLB,Sports App,1st Quarter,PA,35-54,68,569,1.21,10.33,5.71,7
+Soccer,Connected TV,Pre-Game,CA,35-54,84,169,1.95,6.04,11.11,14
+MLB,YouTube,1st Quarter,FL,35-54,63,169,2.99,6.52,7.76,12
+College Football,Connected TV,Post-Game,NY,25-44,65,579,2.02,10.56,6.86,13
+NHL,YouTube,4th Quarter,TX,35-54,75,335,2.49,8.92,17.07,8
+Soccer,Streaming,2nd Quarter,MI,25-45,87,552,2.35,5.54,6.17,19
+NHL,Connected TV,1st Quarter,OH,35-54,63,341,2.4,7.61,7.45,7
+NFL,Streaming,Post-Game,FL,18-34,86,400,2.96,10.14,10.99,7
+NFL,Connected TV,Halftime,FL,18-49,74,347,3.48,10.23,19.8,16
