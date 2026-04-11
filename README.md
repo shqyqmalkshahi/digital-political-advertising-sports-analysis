@@ -48,6 +48,19 @@ Key features:
 
 ---
 
+## Methodology
+
+- Cleaned and validated dataset (250 records, no missing values)  
+- Aggregated performance metrics across sports, platforms, and game moments  
+- Calculated average engagement rates, CTR, and ad recall across dimensions  
+- Built pivot tables to analyze sport-platform performance combinations  
+- Conducted correlation analysis between:
+  - Ad spend and CTR  
+  - Mobile usage and engagement  
+- Visualized trends using bar charts and scatter plots
+
+---
+
 ##  Key Analysis Performed
 - Engagement rate by sport
 - CTR comparison across platforms
@@ -60,12 +73,22 @@ Key features:
 
 ---
 
-##  Key Insights
-- Certain sports generate higher engagement due to strong fan interaction
-- Social media and sports apps produce higher CTR compared to other platforms
-- Halftime and pre-game moments lead to stronger ad recall
-- Mobile usage is strongly associated with higher engagement
-- Younger audiences show higher interaction with digital ads
+## Key Insights
+
+- Average CTR across dataset ≈ 2.39%, with variation by platform  
+- Social media and sports apps consistently generate higher engagement and CTR  
+- Halftime and pre-game moments produce the highest ad recall  
+- Mobile usage (avg ≈ 74%) is strongly associated with higher engagement  
+- Younger audiences (18–34) show the highest interaction with digital ads  
+
+---
+
+## Target Audience
+
+- Political campaign strategists  
+- Digital marketing teams  
+- Media planners  
+- Advertising analysts
 
 ---
 
